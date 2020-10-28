@@ -15,7 +15,7 @@ public class main {
 
     public static void main(String[] args)
     {
-        double totalAmount = 0, amount = 0;
+        double amount = 0;
         String paymentType,name,expireDate,cNumber;
         int totalCredit = 0, totalCash = 0;
         List<Payment> aPayment = new ArrayList<Payment>();
